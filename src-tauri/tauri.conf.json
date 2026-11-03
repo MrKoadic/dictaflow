@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "DictaFlow",
+  "productName": "Dicta Flow",
   "version": "0.1.0",
   "identifier": "com.mrkoadic.dictaflow",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "DictaFlow",
+        "title": "Dicta Flow",
         "width": 800,
         "height": 600
       }
