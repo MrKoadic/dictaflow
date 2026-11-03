@@ -2,5 +2,5 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    tauri_appopenflow_lib::run()
+    tauri_appdictaflow_lib::run()
 }
